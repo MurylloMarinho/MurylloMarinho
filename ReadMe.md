@@ -1,5 +1,6 @@
-# 💫 About Me:
-👨🏻‍💻 Sou estudante de front end<br>📍 Estou a procura de estágio
+ Estudante de TI com Foco em Desenvolvimento Web Front-end
+
+Sou Muryllo, um estudante de TI com paixão por tecnologia e desenvolvimento web. Tenho experiência em HTML, CSS e JavaScript, e estou constantemente aprimorando minhas habilidades para criar interfaces de usuário modernas e responsivas.
 
 
 ## 🌐 Socials:
